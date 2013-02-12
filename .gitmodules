@@ -1,7 +1,7 @@
 [submodule "messenger_project/rapidsms_httprouter_src"]
 	path = messenger_project/rapidsms_httprouter_src
-	url = git://github.com/unicefuganda/rapidsms-httprouter
+	url = git://github.com/unicefburundi/rapidsms-httprouter
 [submodule "messenger_project/rapidsms"]
         path = messenger_project/rapidsms
-        url = git://github.com/unicefuganda/rapidsms
+        url = git://github.com/unicefburundi/rapidsms
 
